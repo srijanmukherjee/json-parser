@@ -76,7 +76,6 @@ void json_dump(Json *root);
 //                                 IMPLEMENTATION
 ///////////////////////////////////////////////////////////////////////////////////////
 
-#define JSON_IMPLEMENTATION
 #ifdef JSON_IMPLEMENTATION
 
 #define ANSI_COLOR_RED "\x1b[31m"
