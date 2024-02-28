@@ -1,0 +1,31 @@
+{
+    "name": "Srijan Mukherjee",
+    "languages": "English",
+    "strings": [
+        "hello",
+        "world",
+        "these",
+        "are some",
+        "strings",
+        "in",
+        "an",
+        "array"
+    ],
+    "num1": -12.2,
+    "num2": -12.2,
+    "num3": -12,
+    "num4": -12.32E+1,
+    "num5": -12e2,
+    "nested": {
+        "value": [
+            123,
+            123.12e2,
+            345,
+            365,
+            4564,
+            76
+        ]
+    },
+    "testingNull": null,
+    "isValid": false
+}
