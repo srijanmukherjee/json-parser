@@ -5,7 +5,6 @@
 
 int main(void) {
     Json *root = json_parse("example.json");
-    json_dump(root);
-    printf("\n");
+    json_print(root, 4);
     return 0;
 }
